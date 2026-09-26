@@ -54,7 +54,7 @@ Atualmente, venho construindo projetos práticos utilizando **SQL Server e Power
 
 ## 📊 Projetos em Destaque
 
-### 🛍️ Use Solares — SQL Server + Power BI
+### 🛍️ Use Solaris — SQL Server + Power BI
 
 Projeto de análise de dados desenvolvido para uma loja fictícia de moda feminina.
 
