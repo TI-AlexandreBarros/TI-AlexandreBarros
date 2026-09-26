@@ -77,7 +77,7 @@ O projeto envolve a construção de uma base de dados no **SQL Server**, criaç�
 
 **Tecnologias:** `SQL Server` `SSMS` `Power BI`
 
-👉 **[Ver projeto Use Solares]((https://github.com/TI-AlexandreBarros/Use-Solaris-Data-Analytics))**
+👉 **[Ver projeto Use Solaris]((https://github.com/TI-AlexandreBarros/Use-Solaris-Data-Analytics))**
 
 ---
 
