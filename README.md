@@ -58,26 +58,49 @@ Atualmente, venho construindo projetos práticos utilizando **SQL Server e Power
 
 Projeto de análise de dados desenvolvido para uma loja fictícia de moda feminina.
 
-O projeto envolve a construção de uma base de dados no **SQL Server**, criação de consultas e Views para extração dos dados e desenvolvimento de um dashboard no **Power BI**.
+O projeto envolve a construção de uma base de dados no SQL Server, criação de consultas e Views para extração dos dados e desenvolvimento de um dashboard no Power BI.
 
-**Principais análises:**
+Principais análises:
 
-- 💰 Faturamento
-- 🛒 Pedidos
-- 📦 Quantidade vendida
-- 👤 Clientes
-- 🏪 Lojas
-- 👩‍💼 Funcionários
-- 👗 Categorias
-- 📍 Estados e cidades
-- 💳 Formas de pagamento
-- 📅 Evolução mensal
-- ❌ Cancelamentos
-- 🎯 Ticket médio
+* 💰 Faturamento
+* 🛒 Pedidos
+* 📦 Quantidade vendida
+* 👤 Clientes
+* 🏪 Lojas
+* 👩‍💼 Funcionários
+* 👗 Categorias
+* 📍 Estados e cidades
+* 💳 Formas de pagamento
+* 📅 Evolução mensal
+* ❌ Cancelamentos
+* 🎯 Ticket médio
 
-**Tecnologias:** `SQL Server` `SSMS` `Power BI`
+Tecnologias: `SQL Server` `SSMS` `Power BI`
 
-👉 **[Ver projeto Use Solaris](https://github.com/TI-AlexandreBarros/Use-Solaris-Data-Analytics)**
+👉 [Ver projeto Use Solaris](https://github.com/TI-AlexandreBarros/Use-Solaris-Data-Analytics)
+
+---
+
+### 📊 Power BI Dashboard — SAC
+
+Projeto de treino e portfólio desenvolvido durante meus estudos de Power BI, com foco na análise de dados do setor de Serviço de Atendimento ao Cliente (SAC).
+
+O projeto apresenta um dashboard com indicadores e visualizações para análise do volume de chamados, tempo de atendimento, retorno, cancelamentos e distribuição dos chamados por atendente e por problema.
+
+Principais análises:
+
+* 📞 Total de chamados
+* ⏱️ Tempo médio de retorno
+* ⏱️ Média de atendimento
+* 📅 Média diária de chamadas
+* ❌ Percentual de chamados cancelados
+* 📈 Evolução dos chamados por ano e mês
+* 🔎 Chamados por problema
+* 👤 Chamados por atendente
+
+Tecnologias: `Power BI` `Power Query` `DAX`
+
+👉 [Ver projeto Power BI Dashboard — SAC](https://github.com/TI-AlexandreBarros/PowerBI-Dashboard-SAC)
 
 ---
 
